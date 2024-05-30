@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Michele 👋
 
+I am a Master's student @ University of Trieste.
+
+- 🔭 I’m currently working on:
+  - density-based clustering algorithm 
+  - priors of Variational Auto Encoders (VAEs)
+  - resampling methods for Pyhisics-Informed Neural Networks (PINNs)
+  - genetic algorithms for Generative Adversarial Networks (GANs)
+ 
 <!--
-**alessimichele/alessimichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
