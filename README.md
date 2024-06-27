@@ -3,7 +3,7 @@
 I am a Master's student @ University of Trieste.
 
 - 🔭 I’m currently working on:
-  - density-based clustering algorithm 
+  - non parametric density-based clustering algorithm 
   - priors of Variational Auto Encoders (VAEs)
   - resampling methods for Pyhisics-Informed Neural Networks (PINNs)
   - genetic algorithms for Generative Adversarial Networks (GANs)
