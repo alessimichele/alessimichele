@@ -1,6 +1,6 @@
 ### Hi there, I'm Michele 👋
 
-I am a Master's student @ University of Trieste.
+PhD student @ Area Science Park and University of Trieste.
 
 - 🔭 I’m currently working on:
   - non parametric density-based clustering algorithm 
