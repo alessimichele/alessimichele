@@ -1,12 +1,12 @@
 ### Hi there, I'm Michele 👋
 
-PhD student @ Area Science Park and University of Trieste.
+PhD student @ Area Science Park and the University of Trieste.
 
 - 🔭 I’m currently working on:
   - non parametric density-based clustering algorithm 
   - priors of Variational Auto Encoders (VAEs)
-  - resampling methods for Pyhisics-Informed Neural Networks (PINNs)
-  - genetic algorithms for Generative Adversarial Networks (GANs)
+  - variational inference for Physical Systems (PINNs)
+  - deep generative models applied to scRNA
  
 <!--
 - 🌱 I’m currently learning ...
