@@ -4,9 +4,9 @@ PhD student @ Area Science Park and the University of Trieste.
 
 - 🔭 I’m currently working on:
   - non parametric density-based clustering algorithm 
-  - priors of Variational Auto Encoders (VAEs)
+  - priors of Variational Auto Encoders
   - variational inference for Physical Systems (PINNs)
-  - deep generative models applied to scRNA
+  - deep generative models applied to scRNA-seq
  
 <!--
 - 🌱 I’m currently learning ...
